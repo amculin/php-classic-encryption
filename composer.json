@@ -1,0 +1,17 @@
+{
+    "name": "amculin/classic-encryption",
+    "license": "MIT",
+    "description": "Simple implementation of classic cryptography algorithm using PHP",
+    "authors": [
+        {
+            "name": "Fahmi Auliya Tsani",
+            "email": "amixcustomlinux@gmail.com",
+            "homepage": "https://github.com/amculin"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "amculin\\encryption\\": "source/"
+        }
+    }
+}
